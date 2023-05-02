@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -euo pipefail
+
+adb install -f APP.apk
